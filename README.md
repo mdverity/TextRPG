@@ -1,13 +1,15 @@
-﻿# Escape from the Glacial Catacombs - A Python RPG
+﻿# Escape from the Glacial Catacombs - A Python-based RPG
 
 An ASCII dungeon-crawler written in Python, based entirely in the command prompt.
 
-The basic gameplay loop is as follows:
+The basic gameplay is as follows:
 >Choose a name and class for your character, and explore a variety of caves through the use of portals.
 >
 >Inside these caves are monsters that will randomly appear (think Pokémon-style battles).
 >
->Defeating these monsters provides you with XP.
+>Defeating these monsters provides you with XP, eventually levelling you up, increasing HP and MP.
+>
+>The caves contain different types of chests, and they all contain items that are randomly generated.
 >
 >As you progress through some caves, you will encounter chests guarded by mini-bosses, these contain a key.
 >
@@ -16,7 +18,7 @@ The basic gameplay loop is as follows:
 >Become powerful enough to defeat him through the use of items, spells, and stats acquired on your journey.  
 
 
-This was a final project for my CSI111 class, and allowed me to practice a variety of introductory concepts, including but not limited to:
+This is a final project for a CSI111 class, and allowed me to practice a variety of introductory concepts, including but not limited to:
 * Data structure navigation
 * List comprehensions
 * Saving/Loading Objects as files
