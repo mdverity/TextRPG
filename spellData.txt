@@ -1,0 +1,11 @@
+Heal     (10 MP),Deep Cut (15 MP),Brace    (20 MP),Counter  (25 MP),Fireball (15 MP),Freeze   (20 MP),Bubble   (25 MP)Backstab (15 MP),Enshroud (20 MP),Poison   (25 MP)
+Heals the player, with amount increased every level.
+Slash the enemy, doing damage and causing them to bleed.
+Cause reflect damage and take less damage for a short time.
+Counter your enemy's next basic attack back at them.
+Throw a fireball, damaging the enemy & making them burn.
+Freeze the enemy, doing damage and preventing all action.
+Conjure a protective bubble, decreasing damage taken.
+Appear behind the enemy, doing 1.5x normal weapon damage.
+Conceal yourself in shadows, increasing dodge chance.
+Coat your weapon in a deadly poison, increasing damage.
